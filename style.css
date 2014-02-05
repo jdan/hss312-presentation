@@ -1,0 +1,33 @@
+h1 {
+  text-align: left;
+  position: absolute;
+  bottom: 100px;
+  left: 40px;
+  font-size: 150px;
+  margin: 0;
+}
+
+h2 {
+  text-align: left;
+  position: absolute;
+  bottom: 40px;
+  left: 40px;
+  font-size: 75px;
+  font-style: italic;
+  margin: 0;
+}
+
+#slide-1 {
+  background: url('bg.jpg');
+  background-position: center center;
+  background-size: cover;
+  color: #eee;
+}
+
+#gradient {
+  position: absolute;
+  top: 0; bottom: 0;
+  left: 0; right: 0;
+  background-color: #000;
+  opacity: 0.45;
+}
