@@ -17,6 +17,10 @@ h2 {
   margin: 0;
 }
 
+img {
+  width: 100%;
+}
+
 #slide-1 {
   background: url('bg.jpg');
   background-position: center center;
@@ -24,7 +28,14 @@ h2 {
   color: #eee;
 }
 
-#gradient {
+#slide-9 {
+  background: url('childrenatplay.jpg');
+  background-position: center bottom;
+  background-size: cover;
+  color: #eee;
+}
+
+.gradient {
   position: absolute;
   top: 0; bottom: 0;
   left: 0; right: 0;
