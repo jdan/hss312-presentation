@@ -97,4 +97,3 @@ So when cars came by, we didn't move.
 So we end up with this mess.
 
 ![jaywalkers](jaywalkers.png)
->>>>>>> Stashed changes
