@@ -97,3 +97,40 @@ So when cars came by, we didn't move.
 So we end up with this mess.
 
 ![jaywalkers](jaywalkers.png)
+
+--
+
+### Jaywalking: Early 1920s
+
+**PEDESTRIANS**
+
+* *Get out of here ya damn joyriders!*
+
+**MOTORISTS**
+
+* *This is our turf, **pedestrians**!*
+
+The motorists didn't have much power behind them -- except...
+
+--
+
+<!-- engine picture -->
+
+--
+
+### Jaywalking: Darwinism
+
+The roads became *survival of the fittest*.
+
+> Pedestrians (and bicyclists) cited custom to claim prior rights,
+> but custom could rarely withstand motorists’ superior power and speed.
+
+As motorists found out, engines weren't enough.
+
+> To secure an urban future for the car, they would have to win a legitimate
+> place for it in the street and cast doubt on the legitimacy of those who
+> stood in the way.
+
+--
+
+### Jaywalking: Resistance is Futile
