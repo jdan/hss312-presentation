@@ -12,55 +12,98 @@ controls: false
 
 --
 
-### Dating
+<div class="gradient"></div>
 
-* Cars drastically altered courtship and dating culture
-* Cars made dating an easier and more intimate procedure
-    * Traveling farther away meant having more privacy
-    * Opened up a larger range of dating activities
-    * Parental supervision became a thing of the past
+# Sex
+
+## How cars changed the hot and heavy
+
+--
+
+### The Landscape
+
+* Cars ownership among the dating population cropped up around the 1920's
+* Sex was already becoming a public issue
+* Dating, in its current incarnation, began around this time
+* Cars drastically altered courtship rituals and dating culture
+
+--
+
+### Sex (generally) starts with dating
+##### Cars made courtship easier and more intimate
+
+* Traveling farther away meant having a greater degree of privacy
+* A larger range of dating activities were then available
+* The ability for a parent to supervise courtship was very greatly diminished.
+
+--
+
+### Dating Differences
+* Dating  transitioned from women inviting men to court them to primarily males calling on women they liked
+* Dating became about activities, flashier, spending money.
+* Our normal dating life today was the start of their very, very adventurous dating life.
+
+--
+
+### Save the date
+##### Because dating was new, and exciting. You could now go to:
+
+* Restaurants
+* A drive around and see sights
+* Anywhere not in the immediate area
+* ___THE BACK SEAT___
 
 --
 
 ### On Privacy
 
-* Better road infrastructure = easier time traveling to safe places.
-* Cars had steadily become more comfortable to stay in with the advent of new uphostery and better design.
+* More (and better) roads allowed couples to go farther and to more places, in general (for longer than just an afternoon)
+* Cars had steadily become more comfortable to park and stay inside, with their new uphostery and more ergonomic design.
+   * ___THE BACK SEAT___ of a car was a relatively private place.
 
 --
 
-### Dating Differences
-* Dating had transitioned from women inviting men to court them to primarily males calling on women they liked
+### There's so much room for activities!
+
+![the backseat](bkseat.jpg)
 
 --
 
-### On Men
+### Sex Crimes
+> "Of the thirty girls charged with 'sex crimes' before the juvenile court in the year prior to September 1st, 1924, nineteen committed the offence in an automobile, while the remaining eleven declined to say."
+
+__via http://www.historytoday.com/peter-ling/sex-and-automobile-jazz-age__
+
+Sexual liberation was happening, and the car gave the privacy, the place, and the freedom to help it on its way.
+
+--
+
+### On Men: A Self-Enforcing Circle
+##### Cars helped reinforce masculinity
+
 * For financial reasons, men were the primary vehicle owners.
 * This helped lock cars in as part of the male identity
 * A car allowed a man access to a larger and higher class dating pool.
+* Helped identify a man as a "made man" -- someone with his life together.
 
 --
 
-### On Indepdence
+### Autonomy
+###### Not just a pun; cars allowed couples to be more autonomous.
 
-* A car allowed couples a greater degree of freedom
-    * Could go to more locations
-    * Could spend more time away from families
+* Couples were able to move farther away from the home and still maintain looser ties towards their family
+* You could do more for running a shop, farm, or business than you could without one.
+* Helped set the precedent that couples were their own unit, not just an extension of their original families.
 
 --
 
 ### Today
+##### Nothing ever changes
 
-* At this point, researching 'sex' and 'automobile' together brings you
-to many lists of cars that are most enjoyable to have sex in.
+* At this point, researching 'sex' and 'automobile' together brings you to many lists of cars that are most enjoyable to have sex in.
 * Ownership of a car has become heavily tied into the concept of manliness
+* Mechaphilia.
 
---
-
-### References
-
-* http://www.historytoday.com/peter-ling/sex-and-automobile-jazz-age
-* "The Automobile Age" by James J. Flink
 
 --
 

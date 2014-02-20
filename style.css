@@ -28,43 +28,50 @@ img {
   color: #eee;
 }
 
-#slide-9 {
+#slide-2 {
+  background: url('girl-and-car.jpg');
+  background-size: cover;
+  background-position: center center;
+  color: #eee;  
+}
+
+#slide-13 {
   background: url('childrenatplay.jpg');
   background-size: cover;
   background-position: center bottom;
   color: #eee;
 }
 
-#slide-14 {
+#slide-18 {
   background: url('engine.jpg');
   background-size: contain;
   background-position: center center;
   color: #fff;
 }
 
-#slide-18 {
+#slide-22 {
   background: url('card1.png');
   background-size: contain;
 }
 
-#slide-19 {
+#slide-23 {
   background: url('card2.png');
   background-size: contain;
 }
 
-#slide-23 {
+#slide-27 {
   background: url('shared-space-1.jpg');
   background-size: cover;
   background-position: center center;
 }
 
-#slide-24 {
+#slide-28 {
   background: url('shared-space-2.jpg');
   background-size: cover;
   background-position: center center;
 }
 
-#slide-25 {
+#slide-29 {
   background: url('shared-space-3.jpg');
   background-size: cover;
   background-position: center center;
