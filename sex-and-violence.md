@@ -73,7 +73,7 @@ to many lists of cars that are most enjoyable to have sex in.
 
 ### Jaywalking: A colorful history
 
-1920s: **Scenario**
+1910s - 1920s: **Scenario**
 
 * Children are getting hit by cars
 * Mothers are freaking out
@@ -100,7 +100,7 @@ So we end up with this mess.
 
 --
 
-### Jaywalking: Early 1920s
+### Jaywalking: Early Days
 
 **PEDESTRIANS**
 
@@ -134,3 +134,81 @@ As motorists found out, engines weren't enough.
 --
 
 ### Jaywalking: Resistance is Futile
+
+**SPEED LIMITS**
+
+Low speed limits were near impossible to enforce.
+
+**GOVERNORS**
+
+25mph - engine shuts off. Voters didn't like the idea.
+
+**MORE VISIBLE TRAFFIC LINES/SIGNS**
+
+No one cared.
+
+--
+
+### Jaywalking: Resistance is Futile
+
+"Conditions have changed!"
+
+![scout](scout.png)
+
+--
+
+<!-- first card -->
+
+--
+
+<!-- second card -->
+
+--
+
+### Jaywalking: War of the Words
+
+1920 - Charles Hayes
+
+* Less attention to *reckless drivers* and more attention to *Jay Walkers*.
+
+1924 - Coroner Oscar Wolff and Police Chief Morgan Collins
+
+* War on speed!
+* Save the children!
+* Give the pedestrians a chance!
+
+--
+
+### Jaywalking: The term as we know it
+
+* **1913** - Syracuse's pioneering safety campaign
+* **1917** - Boston's definition of the word
+* **1918** - St. Louis leaflet distribution
+* **1920** - San Francisco enters the conversation
+* **1921** - Boy Scouts of America issues cards
+* **1924** - Term added to the dictionary
+
+*Jaywalking* became part of the vernacular.
+
+--
+
+### Jaywalking: Legacy
+
+The acceptance of the term "jaywalking" was instrumental in educating the
+public on its dangers.
+
+Motorists finally had something substantial to work with.
+
+The pesky pedestrians were finally put in their place.
+
+--
+
+<!-- shared space 1 -->
+
+--
+
+<!-- shared space 2 -->
+
+--
+
+<!-- shared space 3 -->
