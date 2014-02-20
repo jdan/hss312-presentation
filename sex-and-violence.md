@@ -198,7 +198,7 @@ No one cared.
 
 ### Jaywalking: Resistance is Futile
 
-"Conditions have changed!"
+1921 Grand Rapids Boy Scouts - "Conditions have changed!"
 
 ![scout](scout.png)
 
