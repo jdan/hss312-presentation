@@ -32,7 +32,7 @@ img {
   background: url('girl-and-car.jpg');
   background-size: cover;
   background-position: center center;
-  color: #eee;  
+  color: #eee;
 }
 
 #slide-13 {
@@ -49,29 +49,35 @@ img {
   color: #fff;
 }
 
-#slide-22 {
+#slide-21 {
+  background: url('pedestrians.png');
+  background-size: cover;
+  background-position: center bottom;
+}
+
+#slide-23 {
   background: url('card1.png');
   background-size: contain;
 }
 
-#slide-23 {
+#slide-24 {
   background: url('card2.png');
   background-size: contain;
 }
 
-#slide-27 {
+#slide-28 {
   background: url('shared-space-1.jpg');
   background-size: cover;
   background-position: center center;
 }
 
-#slide-28 {
+#slide-29 {
   background: url('shared-space-2.jpg');
   background-size: cover;
   background-position: center center;
 }
 
-#slide-29 {
+#slide-30 {
   background: url('shared-space-3.jpg');
   background-size: cover;
   background-position: center center;
